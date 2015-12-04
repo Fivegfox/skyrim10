@@ -46,7 +46,7 @@ while True:
     a[2]=100
     print("Welcome to SkyRim 10\n")
 
-    print("Вас везут на ладье\n")
+    print("Вас везут на пиратской яхте\n")
 
     print("Ты кто?\n")
 
